@@ -6,8 +6,8 @@ function TableHead() {
             <tr>
                 <th>Nama</th>
                 <th>Umur</th>
-                <th>Jenis Kelamin</th>
                 <th>Alamat</th>
+                <th>Jenis Kelamin</th>
             </tr>
         </thead>
     );

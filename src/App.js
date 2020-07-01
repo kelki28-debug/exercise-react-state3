@@ -31,9 +31,11 @@ function App() {
             sex: 'female',
         },
     ];
+   
     return (
+       
         <div className='App'>
-            <Table />
+           <Table data={students}/>
         </div>
     );
 }
